@@ -1,0 +1,54 @@
+{
+  "asanas": [
+    {
+      "id": 1,
+      "title": "Standing Forward Fold (Uttanasana)",
+      "url": "https://www.thegoodbody.com/wp-content/uploads/2019/05/Standing-Forward-Fold.png"
+    },
+    {
+      "id": 2,
+      "title": "Warrior I (Virabhadrasana I)",
+      "url": "https://www.thegoodbody.com/wp-content/uploads/2019/05/Warrior-I.png"
+    },
+    {
+      "id": 3,
+      "title": "Cat-Cow Pose (Marjaryasana-Bitilasana)",
+      "url": "https://www.thegoodbody.com/wp-content/uploads/2019/05/Cat-Cow-Pose.png"
+    },
+    {
+      "id": 4,
+      "title": "Cobra Pose (Bhujangasana)",
+      "url": "https://www.thegoodbody.com/wp-content/uploads/2019/05/Cobra-Pose.png"
+    },
+    {
+      "id": 5,
+      "title": "Bow Pose (Dhanurasana)",
+      "url": "https://www.thegoodbody.com/wp-content/uploads/2019/05/Bow-Pose.png"
+    },
+    {
+      "id": 6,
+      "title": "King Dancer Pose (Natarajasana)",
+      "url": "https://www.thegoodbody.com/wp-content/uploads/2019/05/King-Dancer-Pose.png"
+    },
+    {
+      "id": 7,
+      "title": "Bridge Pose (Setu Bandha Sarvangasana)",
+      "url": "https://www.thegoodbody.com/wp-content/uploads/2019/05/Bridge-Pose.png"
+    },
+    {
+      "id": 8,
+      "title": "Butterfly Pose (Baddha Konasana)",
+      "url": "https://www.thegoodbody.com/wp-content/uploads/2019/05/Butterfly-Pose.png"
+    },
+    {
+      "id": 9,
+      "title": "Seated Forward Bend (Paschimottanasana)",
+      "url": "https://www.thegoodbody.com/wp-content/uploads/2019/05/Seated-Forward-Bend.png"
+    },
+    {
+      "id": 10,
+      "title": "Reclining Spinal Twist (Supta Matsyendrasana)",
+      "url": "https://www.thegoodbody.com/wp-content/uploads/2019/03/Supine-Twist.png"
+    }
+  ]
+}
