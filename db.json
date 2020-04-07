@@ -1,5 +1,5 @@
 {
-  "asanas": [
+  "asanas": 
     {
       "id": 1,
       "title": "Standing Forward Fold (Uttanasana)",
@@ -50,5 +50,4 @@
       "title": "Reclining Spinal Twist (Supta Matsyendrasana)",
       "url": "https://www.thegoodbody.com/wp-content/uploads/2019/03/Supine-Twist.png"
     }
-  ]
 }
